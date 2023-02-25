@@ -31,5 +31,3 @@ Sobrenome <- "Ferreira"
 
 NomeCompleto <- str_c(Nome, " ", Sobrenome)
 NomeCompleto
-
-
