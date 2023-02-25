@@ -17,4 +17,3 @@ mode(Numeros)
 L1 <- TRUE
 is.vector(L1)
 mode(L1)
-
