@@ -42,10 +42,3 @@ df$Nova <- c(2,5,7,NA,NA,NA)
 df$Nova <- NULL
 df$Nova <- NA
 df$Nova[1:3] <- C(1,3,7) 
-
-
-
-
-
-
-
