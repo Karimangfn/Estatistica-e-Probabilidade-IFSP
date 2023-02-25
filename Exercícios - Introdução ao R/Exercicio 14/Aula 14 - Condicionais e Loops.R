@@ -69,16 +69,3 @@ while (x < 100) {
 idades
 idades100
 sum(idades100)
-
-
-
-
-
-
-
-
-
-
-
-
-
