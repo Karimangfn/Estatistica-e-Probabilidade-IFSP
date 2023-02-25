@@ -1,3 +1,3 @@
 ## 💻 Exercício
 
-Exercício prático para criação e manipulação de Dataframes
+Exercício prático para criação e manipulação de Filtros em Dataframes
