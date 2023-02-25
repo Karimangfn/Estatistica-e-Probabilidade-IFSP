@@ -33,7 +33,3 @@ df <- df[df$marca_carro == 1,]
 df1 <- read.csv("marca_carro.csv")
 View(df1)
 View(df)
-
-
-
-
