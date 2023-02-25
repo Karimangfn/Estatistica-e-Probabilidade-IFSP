@@ -10,7 +10,7 @@
 
 Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Linguagem de Programação II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 
-## 💻 Exercícios
+## 💻 Exercícios - Introdução ao R
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
@@ -23,7 +23,11 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Code Challenge - Juntos Somos Mais](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Code%20Challenge%20-%20Juntos%20Somos%20Mais)
 </p>
 
+## 💻 Exercícios - Estatística e Probabilidade / Visualização de Dados
 
+- [Atividade Servlet](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/Servlet)
+- [Atividade JSP](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JSP)
+- [Atividade JDBC](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JDBC)
 
 ## 🚀 Tecnologias
 
