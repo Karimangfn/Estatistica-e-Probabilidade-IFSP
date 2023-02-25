@@ -45,8 +45,3 @@ soma2 <- function (y,z) {
 
 soma2(a,b)
 soma2(b,a)
-
-
-
-
-
