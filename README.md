@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-atividades">Atividades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicios">Exercícios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
  
@@ -10,8 +10,7 @@
 
 Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Linguagem de Programação II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 
-
-## 💻 Atividades
+## 💻 Exercícios
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
