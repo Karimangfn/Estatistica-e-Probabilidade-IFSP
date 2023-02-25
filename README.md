@@ -8,7 +8,7 @@
 
 ## 🗃️ Repositório
 
-Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Linguagem de Programação II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
+Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem da Linguagem de Programação R, como fundamentos, práticas, funções, criação e visualização de dados
 
 ## 💻 Exercícios - Introdução ao R
 
