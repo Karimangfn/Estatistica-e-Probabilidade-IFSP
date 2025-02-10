@@ -33,6 +33,19 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 
 ## 💻 Exercícios - Estatística e Probabilidade / Visualização de Dados
 
+Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
+
+- [Aula 1](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%201)
+- [Aula 2](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%202)
+- [Aula 3](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%203)
+- [Aula 4](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%204)
+- [Aula 5](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%205)
+- [Aula 6](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%206)
+- [Aula 7](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%207)
+- [Aula 8](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%208)
+- [Aula 9](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%209)
+- [Projeto - Análise Exploratoria de Dados](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Projeto%20-%20An%C3%A1lise%20Exploratoria%20de%20Dados)
+
 ## Como Executar um Arquivo .R
 
 ### Pré-requisitos
