@@ -31,7 +31,7 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Funções](https://github.com/Karimangfn/R-Basico/tree/main/Exerc%C3%ADcios%20-%20Introdu%C3%A7%C3%A3o%20ao%20R/Exercicio%2015)
 </p>
 
-## 💻 Exercícios - Estatística e Probabilidade / Visualização de Dados
+## 💻 Exercícios - Estatística e Probabilidade
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
