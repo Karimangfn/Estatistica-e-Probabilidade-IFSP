@@ -33,6 +33,34 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 
 ## 💻 Exercícios - Estatística e Probabilidade / Visualização de Dados
 
+## Como Executar um Arquivo .R
+
+### Pré-requisitos
+1. Instale o **R** caso ainda não tenha:
+   - Baixe e instale a partir do site oficial: [R Project](https://cran.r-project.org/).
+   - (Opcional) Instale o **RStudio** para um ambiente de desenvolvimento mais amigável: [RStudio](https://posit.co/download/rstudio-desktop/).
+
+### Executando o Arquivo .R
+
+1. Via Terminal (Linha de Comando)
+Abra o terminal e execute:
+```sh
+Rscript nome_do_arquivo.R
+```
+
+### Executando no console do R
+Se você estiver dentro de uma sessão interativa do R (sem RStudio), pode executar um script com o seguinte comando:
+
+```sh
+source("nome_do_arquivo.R")
+```
+
+### Executando no RStudio
+1. Abra o RStudio.
+2. No menu superior, clique em File > Open e selecione o arquivo .R.
+3. Com o arquivo aberto, clique no botão Run ou pressione Ctrl + Enter (Windows/Linux) ou Cmd + Enter (macOS) para executar o código.
+
+
 
 ## 🚀 Tecnologias
 
