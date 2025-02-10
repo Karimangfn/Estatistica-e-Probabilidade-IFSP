@@ -3,7 +3,7 @@
 
 # Hipótese nula H0 = 0.
 
-# Hipótese alternativa= diferente de 0 (bilateral)
+# Hipótese alternativa = diferente de 0 (bilateral)
 
 # Formulas
 ## Teste t (quando queremos comparar duas amostras numericas)

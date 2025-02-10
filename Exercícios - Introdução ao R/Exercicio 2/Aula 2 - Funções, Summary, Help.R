@@ -1,4 +1,4 @@
-#Funções
+# Funções
 #Funções fazem parte de um Pacote
 a <- 5
 b <- 3
