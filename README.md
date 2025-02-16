@@ -74,7 +74,7 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Aula 9](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Aula%209)
 - [Projeto - Análise Exploratoria de Dados](https://github.com/Karimangfn/Estatistica-e-Probabilidade-IFSP/tree/main/Exerc%C3%ADcios%20-%20Estat%C3%ADstica%20e%20Probabilidade/Projeto%20-%20An%C3%A1lise%20Exploratoria%20de%20Dados)
 
-## ▶️ Como Executar um Arquivo .R
+## ▶️ Como Executar um Arquivo `.R`
 
 ### Pré-requisitos
 1. Instale o **R** caso ainda não tenha:
