@@ -1,7 +1,7 @@
 #Dataframe
 
 #Definir area de trabalho
-setwd("C:/Users/Kariman/Desktop/Dataframe-Estudo")
+setwd("C:/Dataframe-Estudo")
 
 #Importando base de dados
 df <- read.csv("marca_carro.csv")
