@@ -1,6 +1,6 @@
 #Filtros em Dataframes
 
-setwd("C:/Users/Kariman/Desktop/Dataframe-Estudo")
+setwd("C:/Dataframe-Estudo")
 df <- read.csv("marca_carro.csv")
 
 df[1]
