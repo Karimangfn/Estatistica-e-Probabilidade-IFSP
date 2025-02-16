@@ -9,7 +9,7 @@
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercícios---introdução-ao-r">Atividades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-atividades---introdução-ao-r">Atividades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-como-executar-um-arquivo-r">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
@@ -38,7 +38,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 A disciplina Estatística e Probabilidade apresenta conceitos da Linguagem de Programação R, incluindo fundamentos, práticas, funções, criação e visualização de dados, com foco na prática e aprendizagem.
 
-## 💻 Exercícios - Introdução ao R
+## 💻 Atividades - Introdução ao R
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
@@ -59,7 +59,7 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Funções](https://github.com/Karimangfn/R-Basico/tree/main/Exerc%C3%ADcios%20-%20Introdu%C3%A7%C3%A3o%20ao%20R/Exercicio%2015)
 </p>
 
-## 💻 Exercícios - Estatística e Probabilidade
+## 💻 Atividades - Estatística e Probabilidade
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
